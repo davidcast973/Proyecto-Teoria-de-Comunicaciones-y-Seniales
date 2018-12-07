@@ -13,6 +13,4 @@ Graficar dos funciones periodicas
 
 |          Integrantes          |       Tema         | Calificacíon |
 | :---------------------------: | :----------------: | :----------: |
-| Acosta Rosales Jair Sebastián | Proyecto de Teoria |              |
-|     Álvarez González Oscar    | de Comunicaciones  |     ~10~     |
-|    Castellanos Castro David   |     y señales      |              |
+| Acosta Rosales Jair Sebastián <br /> Álvarez González Oscar <br /> Castellanos Castro David | Proyecto de Teoria <br /> de Comunicaciones <br /> y señales |       10       |
